@@ -1,0 +1,32 @@
+# Generated output files (rebuild from scripts)
+*.FCStd
+*.FCStd1
+*.step
+*.stp
+*.stl
+*.ifc
+*.dxf
+
+# Keep source SVGs, ignore generated ones
+# bracket_profile.svg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Screenshots (tracked via LFS or committed directly)
+# screenshots/
