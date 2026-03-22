@@ -1,6 +1,6 @@
 # Open-Source CAD Portfolio
 
-Scripted parametric models demonstrating proficiency with open-source CAD tools. Each project is fully code-defined — no manual GUI clicks required to reproduce the geometry.
+Scripted parametric models demonstrating proficiency with open-source CAD tools. Each project is fully code-defined - no manual GUI clicks required to reproduce the geometry.
 
 ## Projects
 
