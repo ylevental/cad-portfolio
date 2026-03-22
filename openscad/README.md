@@ -26,8 +26,9 @@ Prints derived values (pitch diameter, outer diameter, root diameter) to the con
 
 ## Screenshots
 
-![Parametric Bracket](../screenshots/openscad_bracket.png)
-![Spur Gear](../screenshots/openscad_gear.png)
+| Parametric Bracket | Spur Gear |
+|---|---|
+| ![Parametric Bracket](../screenshots/openscad_bracket.png) | ![Spur Gear](../screenshots/openscad_gear.png) |
 
 ## Running
 
