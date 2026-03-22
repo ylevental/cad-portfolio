@@ -18,7 +18,7 @@ A flanged pillow-block bearing housing with:
 
 An ISO 4032-style M10 hex nut with:
 - Hexagonal prism body (17mm across flats)
-- Simplified thread grooves via torus cuts at each pitch
+- Helical thread grooves (with chamfer fallback)
 - Top and bottom corner chamfers
 - Keyway slot in the bore
 
@@ -26,8 +26,9 @@ An ISO 4032-style M10 hex nut with:
 
 ## Screenshots
 
-![Bearing Block](../screenshots/freecad_bearing_block.png)
-![Hex Nut](../screenshots/freecad_hex_nut.png)
+| Bearing Block | Hex Nut |
+|---|---|
+| ![Bearing Block](../screenshots/freecad_bearing_block.png) | ![Hex Nut](../screenshots/freecad_hex_nut.png) |
 
 ## Running
 
